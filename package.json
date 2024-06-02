@@ -1,0 +1,25 @@
+{
+  "name": "plf-timecopr-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulaLuinaFernandez/copr-msg-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "paula_luina <paula_lf@yahoo.es> (http://www.paula_luina.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PaulaLuinaFernandez/copr-msg-footer/issues"
+  },
+  "homepage": "https://github.com/PaulaLuinaFernandez/copr-msg-footer#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
